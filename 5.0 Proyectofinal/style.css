@@ -56,7 +56,7 @@ body {
     margin-top: 1rem;
     padding: 0.8rem 1.5rem;
     background-color: white;
-    color: #888888;
+    color: #1f48ff;
     font-weight: bold;
     border-radius: 8px;
     border: none;
@@ -65,7 +65,7 @@ body {
 }
 
 .button:hover {
-    background-color: #f1f1f1;
+    background-color: #f1f1f1ab;
 }
 
 /* Sección de tarjetas */
@@ -114,7 +114,7 @@ body {
 }
 
 .moto-specs li {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 /* Responsividad */
